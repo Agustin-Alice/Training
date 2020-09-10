@@ -1,0 +1,19 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "With this repository i'm gonna learn so much!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agustin-Alice/Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agustin-Alice/Training/issues"
+  },
+  "homepage": "https://github.com/Agustin-Alice/Training#readme"
+}
